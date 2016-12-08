@@ -6,8 +6,6 @@ This is a collection of scripts I wrote to do some batch processing in conjuncti
 
 These were developed on macOS in a unix shell.
 
-`batch.sh` is a variation on the example provided in Don's README.
-
 Perhaps you'll find them useful.
 
 
