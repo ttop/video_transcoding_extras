@@ -5,6 +5,8 @@ readonly queue="$work/queue.txt"
 readonly crops="$work/Crops"
 readonly completed="$work/Completed Media/sort"
 
+mkdir -p "${completed}"
+
 input="$(sed -n 1p "$queue")"
 
 while [ "$input" ]; do
